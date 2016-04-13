@@ -18,17 +18,17 @@
       <a-entity loader="src: url(models/yuko_face.obj); format: obj" rotation="270 -285.3 0" position="-4 -2.980233E-08 -16.4" material="shader: flat; src: url(images/yuko_head.png); repeat: 1; side: double; "></a-entity>
       <a-entity loader="src: url(models/yuko_head.obj); format: obj" rotation="270 -285.3 0" position="-4.008863 0 -16.40242" material="shader: flat; src: url(images/yuko_head.png); repeat: 1; side: double; "></a-entity>
       <a-entity loader="src: url(models/yuko_eye.obj); format: obj" rotation="270 -285.3 0" position="-4 0 -16.4" material="shader: flat; src: url(images/yuko_head.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_body_summer.obj); format: obj" rotation="270 -285.3 0" position="-4 0 -16.4" material="shader: flat; src: url(images/body_sum.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/body_summer.obj); format: obj" rotation="270 -285.3 0" position="-4 0 -16.4" material="shader: flat; src: url(images/body_sum.png); repeat: 1; side: double; "></a-entity>
       <a-entity loader="src: url(models/misaki_face.obj); format: obj" rotation="270 -75.01001 0" position="-2.2 -2.980233E-08 -16.61" material="shader: flat; src: url(images/misaki_head.png); repeat: 1; side: double; "></a-entity>
       <a-entity loader="src: url(models/misaki_head.obj); format: obj" rotation="270 -75.01001 0" position="-2.2 0 -16.61" material="shader: flat; src: url(images/misaki_head.png); repeat: 1; side: double; "></a-entity>
       <a-entity loader="src: url(models/misaki_eye.obj); format: obj" rotation="270 -75.01001 0" position="-2.2 0 -16.61" material="shader: flat; src: url(images/misaki_head.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_body_summer.obj); format: obj" rotation="270 -75.01001 0" position="-2.2 0 -16.61" material="shader: flat; src: url(images/body_sum.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_face.obj); format: obj" position="-2.99 8.881784E-16 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_Fhair2.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_body.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_Fhair.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_eye.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
-      <a-entity loader="src: url(models/_head.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/body_summer.obj); format: obj" rotation="270 -75.01001 0" position="-2.2 0 -16.61" material="shader: flat; src: url(images/body_sum.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/face.obj); format: obj" position="-2.99 8.881784E-16 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/Fhair2.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/body.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/Fhair.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/eye.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
+      <a-entity loader="src: url(models/head.obj); format: obj" rotation="270 0 0" position="-2.99 0 -17.21" material="shader: flat; src: url(images/utc_all2.png); repeat: 1; side: double; "></a-entity>
       <a-image src="images/radial-shadow-3.png" width="-0.8192" height="0.8191998" rotation="89.98022 0 0" position="-2.99 0 -17.21" ></a-image>
       <a-light type=directional; intensity=1.2 color=#FFFFFF position="0.07331315 0.0209977 0.9970881" ></a-light>
       <a-image src="images/radial-shadow-3.png" width="-0.8192" height="0.8191997" rotation="89.98022 0 0" position="-2.2 0 -16.61" ></a-image>
